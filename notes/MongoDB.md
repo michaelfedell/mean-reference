@@ -4,7 +4,7 @@ Mondodb
 
 MongoDB is one of a new class of modern database systems known as *NoSQL* databases. SQL systems use the structed query language for modifying the database and use a tables and rows abstraction to model data. NoSQL databases typically employ some other form of querying and use documents, key-value pairs, graphs and other data structures to model data.
 
-SQL is still a standard in database systems and is definitely worth learning. But the structured query language is another programming language -- a declarative one -- that we'd have to study, whereas mongodb uses javascript for data access. This is really incredible. In addition to using javascript for server side development with node and express, beyond already using it for client side features, we can now also use javascript to create, query and modify data in a database.
+SQL is **still** a standard in database systems and is definitely worth learning. But the structured query language is another programming language -- a declarative one -- that we'd have to study, whereas mongodb uses javascript for data access. This is really incredible. In addition to using javascript for server side development with node and express, beyond already using it for client side features, we can now also use javascript to create, query and modify data in a database.
 
 MongoDB also forms part of what is known as the *MEAN* stack for *full stack* javascript web development, which is a popular approach to contemporary web application development. By the end of this class we'll have covered three of the four technologies used in this approach.
 
